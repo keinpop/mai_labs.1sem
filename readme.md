@@ -1,3 +1,3 @@
-# Git and GitHub course
+# Labs on university MAI
 
-Crash course for Git
+U can read and study them
